@@ -40,8 +40,7 @@ from openai import OpenAI
 # --------------------------------------------------
 
 client = OpenAI(
-    api_key="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"
-)
+    api_key="INSERT_OPENAI_KEY"
 
 # --------------------------------------------------
 # LOAD DATASET
